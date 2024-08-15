@@ -16,3 +16,13 @@ to commit status area use git commit -m "message in present tense"
 if you want to see commited file  use git log
 
 to add all files to commit status area use git add .
+
+if you want to check difference in file use git diff <filename>
+
+if you want to remove all files from commit status area use git rm --cached -r .
+
+if you want to clone repository use git clone <URL>
+
+if you want to create branch use git branch <branch name>
+if you want to see branch use git branch
+if you want to change main to particular branch use git checkout <branch name>
