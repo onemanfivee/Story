@@ -16,3 +16,7 @@ to commit status area use git commit -m "message in present tense"
 if you want to see commited file  use git log
 
 to add all files to commit status area use git add .
+
+if you want to check difference in file use git diff <filename>
+
+if you want to remove all files from commit status area use git rm --cached -r .
