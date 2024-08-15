@@ -11,3 +11,8 @@ to initialize git use git init
 to get status use git status
 
 to add file status area use git add <filename>
+to commit status area use git commit -m "message in present tense"
+
+if you want to see commited file  use git log
+
+to add all files to commit status area use git add .
