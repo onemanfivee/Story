@@ -1,0 +1,13 @@
+cd <filename>
+make directory mkdir <filename>
+cd story
+ls
+touch chapter1.txt
+if you want to open in pycharm use pycharm64.exe <filename
+or you want to open in vs code use code <filename
+
+to initialize git use git init
+
+to get status use git status
+
+to add file status area use git add <filename>
